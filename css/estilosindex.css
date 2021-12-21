@@ -1,0 +1,13 @@
+@font-face{
+	font-family:index;
+	src:url(../fonts/index.ttf) format('truetype');
+}
+.index{
+font-family:index;
+}
+body{background-color:#2da2eb;
+color:white;}
+p{
+	font-size:25px;
+}
+

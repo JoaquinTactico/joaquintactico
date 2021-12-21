@@ -1,0 +1,45 @@
+@font-face{
+	font-family:nav;
+	src:url(../fonts/nav.otf) format('opentype');
+}
+
+@font-face{
+	font-family:body;
+	src:url(../fonts/body.ttf) format('truetype');
+}
+
+body{
+	font-family: body;
+	width: 1000px;
+}
+nav ul li{
+	display: inline-block;
+	margin-left: 4%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: nav;
+	background-color: #1d95db;
+}
+main{
+	column-count: 2;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+header h1{
+	margin-left: 3%;
+}
+footer{
+	margin-top: 60px;
+	margin-left: 5%;
+}
+a{
+	text-decoration: none;
+}
+p{
+	color: #4c555c;
+}
+footer{
+	color: #4c555c;
+}

@@ -1,0 +1,78 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#verde{
+	background-color: green;
+}
+#celeste{
+	background-color: lightblue;
+}
+#negro{
+	background-color: black;
+}
+#naranja{
+	background-color: orange;
+}
+#turquesa{
+	background-color: seagreen;
+}
+#azul{
+	background-color: blue;
+}
+header{
+	background-color: lightgrey;
+	padding-left: 10%;
+}
+body{
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+html{
+	background-color: lightgrey;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+nav{
+	float: left;
+}
+#principal{
+	float: top;
+	padding-left: 20%;
+	padding-top: 5%;
+}
+#secundario{
+}
+section article{
+	display: inline-block;
+}
+h3{
+	margin-left: 8%;
+	color: grey;
+}
+article{
+	margin-left: 12%;
+}
+h1{
+	float: center;
+}
+article a{
+	text-decoration: none;
+	background-color: lightgrey;
+  	color: white;
+  	padding: 2% 4%;
+  	text-decoration: none;
+}
+article li{
+	list-style: none;
+}
+aside{
+	float: right;
+}
+footer{
+	float: bottom;
+	margin-top: 400px;
+}

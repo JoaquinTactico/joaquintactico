@@ -1,0 +1,97 @@
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+td{
+	border:2px solid black;
+}
+
+
+@font-face{
+	font-family:iso;
+	src:url(../fonts/iso.ttf) format('truetype');
+}
+.iso{
+font-family:iso;
+background-color:orange;
+}
+
+
+@font-face{
+	font-family:basedatos;
+	src:url(../fonts/basedatos.otf) format('opentype');
+}
+.basedatos{
+font-family:basedatos;
+background-color:#2fe056;
+}
+
+
+@font-face{
+	font-family:dias;
+	src:url(../fonts/dias.otf) format('opentype');
+}
+.dias{
+font-family:dias;
+background-color:#2f73e0;
+}
+
+
+@font-face{
+	font-family:fol;
+	src:url(../fonts/fol.ttf) format('truetype');
+}
+.fol{
+font-family:fol;
+background-color:#f0cf18;
+}
+
+
+@font-face{
+	font-family:hardware;
+	src:url(../fonts/hardware.ttf) format('truetype');
+}
+.hardware{
+font-family:hardware;
+background-color:#dd30f0;
+}
+
+
+@font-face{
+	font-family:hora;
+	src:url(../fonts/hora.otf) format('opentype');
+}
+.hora{
+font-family:hora;
+background-color:#2f73e0;
+}
+
+
+@font-face{
+	font-family:redes;
+	src:url(../fonts/redes.ttf) format('truetype');
+}
+.redes{
+font-family:redes;
+background-color:#f2051d;
+}
+
+
+@font-face{
+	font-family:lenguaje;
+	src:url(../fonts/lenguaje.otf) format('opentype');
+}
+.lenguaje{
+font-family:lenguaje;
+background-color:#29e3c4;
+}
+
+
+@font-face{
+	font-family:recreo;
+	src:url(../fonts/recreo.ttf) format('truetype');
+}
+.recreo{
+	font-family:recreo;
+	background-color:#2f73e0;
+}

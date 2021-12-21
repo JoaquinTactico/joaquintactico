@@ -1,0 +1,16 @@
+@font-face{
+	font-family:cod;
+	src:url(../fonts/cod.otf) format('opentype');
+}
+.titulo{
+	color:black;
+	font-family:cod;
+}
+@font-face{
+	font-family:harmony;
+	src:url(../fonts/harmony.ttf) format('truetype');
+}
+.texto{
+	color:red;
+	font-family:harmony;
+}

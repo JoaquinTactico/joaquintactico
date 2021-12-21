@@ -1,0 +1,80 @@
+header{
+	background-color:black;
+	color: white;
+}
+nav ul li{
+	display:inline-block;
+	float:right;
+	padding-left: 40px;
+	margin-bottom: 40px;
+}
+#banner{
+	display: block;
+	margin: auto;
+	padding-top: 100px;
+}
+#logo{
+	float: left;
+	padding-left: 170px;
+}
+nav{
+	margin-right: 30%;
+	padding-top: 60px;
+}
+a{
+	color: white;
+}
+body{
+	background-color: #e3e3e3;
+}
+footer{
+	 background:url('../img/footer.png');
+}
+footer section{
+	display: inline-block;
+	padding-left: 35px;
+	margin-top: 1%;
+}
+.articulos{
+	width: 17%;
+	float: left;
+	vertical-align: 20px;
+	padding-right: 30px;
+	margin-left: 70px;
+}
+#catpaw{
+	float: right;
+}
+header p{
+	margin-right: 15%;
+	margin-left: 15%;
+	padding-bottom:2% ;
+}
+header h1{
+	margin-right: 15%;
+	margin-left: 15%;
+}
+#titulo2{
+	color: #ff6666;
+}
+body h2{
+	color: orange;
+}
+footer h2{
+	color: white;
+}
+footer p{
+	color: white;
+}
+body a{
+	color: orange;
+}
+#quinto{
+	margin-left: 5%;
+}
+#valid{
+	margin-left: 7%;
+}
+#copy{
+	margin-left: 7%;
+}
